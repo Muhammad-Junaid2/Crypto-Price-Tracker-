@@ -1,0 +1,212 @@
+[
+  {
+    "timestamp": "2025-05-03 09:00:00",
+    "id": "bitcoin",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price_usd": 95136.78,
+    "market_cap": 1905000000000,
+    "change_24h": 2.34,
+    "volume_24h": 42300000000
+  },
+  {
+    "timestamp": "2025-05-03 09:00:00",
+    "id": "ethereum",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price_usd": 3843.69,
+    "market_cap": 459000000000,
+    "change_24h": -1.12,
+    "volume_24h": 21400000000
+  },
+  {
+    "timestamp": "2025-05-03 09:00:00",
+    "id": "binancecoin",
+    "name": "BNB",
+    "symbol": "BNB",
+    "price_usd": 700.3,
+    "market_cap": 103000000000,
+    "change_24h": 0.88,
+    "volume_24h": 2100000000
+  },
+  {
+    "timestamp": "2025-05-03 09:00:00",
+    "id": "solana",
+    "name": "Solana",
+    "symbol": "SOL",
+    "price_usd": 245.26,
+    "market_cap": 114000000000,
+    "change_24h": 5.21,
+    "volume_24h": 6800000000
+  },
+  {
+    "timestamp": "2025-05-03 09:00:00",
+    "id": "ripple",
+    "name": "XRP",
+    "symbol": "XRP",
+    "price_usd": 2.43,
+    "market_cap": 139000000000,
+    "change_24h": -0.45,
+    "volume_24h": 3900000000
+  },
+  {
+    "timestamp": "2025-05-03 09:00:00",
+    "id": "cardano",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "price_usd": 1.09,
+    "market_cap": 38200000000,
+    "change_24h": 3.67,
+    "volume_24h": 890000000
+  },
+  {
+    "timestamp": "2025-05-03 09:00:00",
+    "id": "dogecoin",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "price_usd": 0.42,
+    "market_cap": 62100000000,
+    "change_24h": -2.18,
+    "volume_24h": 4200000000
+  },
+  {
+    "timestamp": "2025-05-03 11:00:00",
+    "id": "bitcoin",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price_usd": 96771.53,
+    "market_cap": 1905000000000,
+    "change_24h": 2.34,
+    "volume_24h": 42300000000
+  },
+  {
+    "timestamp": "2025-05-03 11:00:00",
+    "id": "ethereum",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price_usd": 3820.88,
+    "market_cap": 459000000000,
+    "change_24h": -1.12,
+    "volume_24h": 21400000000
+  },
+  {
+    "timestamp": "2025-05-03 11:00:00",
+    "id": "binancecoin",
+    "name": "BNB",
+    "symbol": "BNB",
+    "price_usd": 698.27,
+    "market_cap": 103000000000,
+    "change_24h": 0.88,
+    "volume_24h": 2100000000
+  },
+  {
+    "timestamp": "2025-05-03 11:00:00",
+    "id": "solana",
+    "name": "Solana",
+    "symbol": "SOL",
+    "price_usd": 240.62,
+    "market_cap": 114000000000,
+    "change_24h": 5.21,
+    "volume_24h": 6800000000
+  },
+  {
+    "timestamp": "2025-05-03 11:00:00",
+    "id": "ripple",
+    "name": "XRP",
+    "symbol": "XRP",
+    "price_usd": 2.47,
+    "market_cap": 139000000000,
+    "change_24h": -0.45,
+    "volume_24h": 3900000000
+  },
+  {
+    "timestamp": "2025-05-03 11:00:00",
+    "id": "cardano",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "price_usd": 1.09,
+    "market_cap": 38200000000,
+    "change_24h": 3.67,
+    "volume_24h": 890000000
+  },
+  {
+    "timestamp": "2025-05-03 11:00:00",
+    "id": "dogecoin",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "price_usd": 0.42,
+    "market_cap": 62100000000,
+    "change_24h": -2.18,
+    "volume_24h": 4200000000
+  },
+  {
+    "timestamp": "2025-05-03 13:00:00",
+    "id": "bitcoin",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price_usd": 97196.07,
+    "market_cap": 1905000000000,
+    "change_24h": 2.34,
+    "volume_24h": 42300000000
+  },
+  {
+    "timestamp": "2025-05-03 13:00:00",
+    "id": "ethereum",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price_usd": 3873.28,
+    "market_cap": 459000000000,
+    "change_24h": -1.12,
+    "volume_24h": 21400000000
+  },
+  {
+    "timestamp": "2025-05-03 13:00:00",
+    "id": "binancecoin",
+    "name": "BNB",
+    "symbol": "BNB",
+    "price_usd": 698.76,
+    "market_cap": 103000000000,
+    "change_24h": 0.88,
+    "volume_24h": 2100000000
+  },
+  {
+    "timestamp": "2025-05-03 13:00:00",
+    "id": "solana",
+    "name": "Solana",
+    "symbol": "SOL",
+    "price_usd": 239.9,
+    "market_cap": 114000000000,
+    "change_24h": 5.21,
+    "volume_24h": 6800000000
+  },
+  {
+    "timestamp": "2025-05-03 13:00:00",
+    "id": "ripple",
+    "name": "XRP",
+    "symbol": "XRP",
+    "price_usd": 2.41,
+    "market_cap": 139000000000,
+    "change_24h": -0.45,
+    "volume_24h": 3900000000
+  },
+  {
+    "timestamp": "2025-05-03 13:00:00",
+    "id": "cardano",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "price_usd": 1.07,
+    "market_cap": 38200000000,
+    "change_24h": 3.67,
+    "volume_24h": 890000000
+  },
+  {
+    "timestamp": "2025-05-03 13:00:00",
+    "id": "dogecoin",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "price_usd": 0.43,
+    "market_cap": 62100000000,
+    "change_24h": -2.18,
+    "volume_24h": 4200000000
+  }
+]
