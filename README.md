@@ -20,7 +20,7 @@ A full-featured **CLI + GUI** Python application for tracking real-time cryptocu
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
 
@@ -44,7 +44,7 @@ python gui.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 crypto_tracker/
@@ -67,7 +67,7 @@ crypto_tracker/
 
 ---
 
-## 🔌 API Integration
+##  API Integration
 
 This app uses the **CoinGecko Public API** — no API key required.
 
@@ -86,21 +86,21 @@ Any CoinGecko coin can be searched by name or symbol.
 
 ---
 
-## 🖥 CLI Menu
+##  CLI Menu
 
 ```
-1. 📊 View Live Prices       → Fetches and displays all tracked coins
-2. 🔍 Search Coin            → Search any coin, view detail, add to tracker
-3. 💾 Save Current Prices    → Saves to data/price_history.json + .csv
-4. 📜 View Price History     → Browse stored snapshots, filter by coin
-5. 🚨 Set Price Alert        → Alert when coin goes above/below a price
-6. 📈 View Portfolio         → Track holdings and P&L
-7. ❌ Exit
+1.  View Live Prices       → Fetches and displays all tracked coins
+2.  Search Coin            → Search any coin, view detail, add to tracker
+3.  Save Current Prices    → Saves to data/price_history.json + .csv
+4.  View Price History     → Browse stored snapshots, filter by coin
+5.  Set Price Alert        → Alert when coin goes above/below a price
+6.  View Portfolio         → Track holdings and P&L
+7.  Exit
 ```
 
 ---
 
-## 📊 Data Storage
+##  Data Storage
 
 Price history is stored in two formats automatically:
 
@@ -128,7 +128,7 @@ timestamp,id,name,symbol,price_usd,market_cap,change_24h,volume_24h
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 In `modules/api.py`, you can:
 - Add coins to `DEFAULT_COINS` list
@@ -136,7 +136,7 @@ In `modules/api.py`, you can:
 
 ---
 
-## 🛡 Error Handling
+##  Error Handling
 
 | Scenario | Behavior |
 |---|---|
@@ -148,7 +148,7 @@ In `modules/api.py`, you can:
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 - Python 3.10+
 - `requests` library
@@ -157,13 +157,14 @@ In `modules/api.py`, you can:
 
 ---
 
-## 📄 License
+##  License
 
 MIT License. Free for personal and educational use.
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [CoinGecko API](https://www.coingecko.com/en/api) — Free crypto market data
+# Crypto-Price-Tracker-By-Muhammad Junaid
 # Crypto-Price-Tracker-
